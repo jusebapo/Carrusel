@@ -1,0 +1,85 @@
+{
+    "motos": [
+      {
+        "path": "imagenes/FZ3_0.png",
+        "alt": "Yamaha FZ 3.0",
+        "category": "yamaha"
+      },
+      {
+        "path": "imagenes/XTZ150.png",
+        "alt": "Yamaha XTZ 150",
+        "category": "yamaha"
+      },
+      {
+        "path": "imagenes/XTZ250.png",
+        "alt": "Yamaha XTZ 250",
+        "category": "yamaha"
+      },
+      {
+        "path": "imagenes/r7.png",
+        "alt": "Yamaha R7",
+        "category": "yamaha"
+      },
+      {
+        "path": "imagenes/gsx.png",
+        "alt": "Suzuki GSX",
+        "category": "suzuki"
+      },
+      {
+        "path": "imagenes/GSX-R150.png",
+        "alt": "Suzuki GSX-R 150",
+        "category": "suzuki"
+      },
+      {
+        "path": "imagenes/dr.png",
+        "alt": "Suzuki DR",
+        "category": "suzuki"
+      },
+      {
+        "path": "imagenes/hayabusa.png",
+        "alt": "Suzuki Hayabusa",
+        "category": "suzuki"
+      },
+      {
+        "path": "imagenes/f900.png",
+        "alt": "BMW F900",
+        "category": "bmw"
+      },
+      {
+        "path": "imagenes/BMW1000RR.png",
+        "alt": "BMW 1000RR",
+        "category": "bmw"
+      },
+      {
+        "path": "imagenes/GS1250.png",
+        "alt": "BMW GS1250",
+        "category": "bmw"
+      },
+      {
+        "path": "imagenes/G310R.png",
+        "alt": "BMW G310R",
+        "category": "bmw"
+      },
+      {
+        "path": "imagenes/klx.png",
+        "alt": "Kawasaki KLX",
+        "category": "kawasaki"
+      },
+      {
+        "path": "imagenes/z1000.png",
+        "alt": "Kawasaki Z1000",
+        "category": "kawasaki"
+      },
+      {
+        "path": "imagenes/zx4.png",
+        "alt": "Kawasaki ZX4",
+        "category": "kawasaki"
+      },
+      {
+        "path": "imagenes/h2r.png",
+        "alt": "Kawasaki H2R",
+        "category": "kawasaki"
+      }
+    ]
+  }
+  
